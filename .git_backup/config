@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[branch "main"]
+	gk-last-accessed = 2026-01-08T16:55:32.399Z
+	gk-last-modified = 2026-01-08T16:55:32.399Z
+[remote "origin"]
+	url = https://github.com/hafiz-webify/cloth-trader-frontend
+	fetch = +refs/heads/*:refs/remotes/origin/*
